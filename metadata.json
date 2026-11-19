@@ -1,0 +1,6 @@
+{
+  "name": "Beton İşləri",
+  "description": "Beton tökmə, qəlib, armatur, sənaye döşəmələri, mikser və pompa xidmətləri üzrə peşəkar elan və usta şəbəkəsi platforması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,793 @@
+{
+  "users": [
+    {
+      "id": "u-rashad",
+      "email": "rashad@betonishleri.az",
+      "passwordHash": "demo1234",
+      "firstName": "Rəşad",
+      "lastName": "Məmmədov",
+      "companyName": "Bakı Monolit Qrup",
+      "phone": "+994503124567",
+      "role": "Creator",
+      "verified": true,
+      "banned": false,
+      "bio": "14 illik təcrübəyə malik monolit, bünövrə və sənaye döşəmə briqadası. M200-M400 markalı betonların qəbulu, vibrasiyası və helikopter cilalanması.",
+      "avatarUrl": "/src/assets/images/monolith_formwork_rebar_1795097617939.jpg",
+      "coverMediaUrl": "/src/assets/images/hero_concrete_architecture_1795097617543.jpg",
+      "coverMediaType": "image",
+      "socialLinks": [
+        {
+          "id": "s-1",
+          "platform": "Instagram",
+          "url": "https://instagram.com/bakimonolit"
+        },
+        {
+          "id": "s-2",
+          "platform": "WhatsApp",
+          "url": "https://wa.me/994503124567"
+        },
+        {
+          "id": "s-3",
+          "platform": "YouTube",
+          "url": "https://youtube.com/@bakimonolit"
+        }
+      ],
+      "portfolioGallery": [
+        {
+          "id": "pg-1",
+          "url": "/src/assets/images/monolith_formwork_rebar_1795097617939.jpg",
+          "type": "image",
+          "name": "Ağ Şəhər Monolit Layihəsi"
+        },
+        {
+          "id": "pg-2",
+          "url": "/src/assets/images/hero_concrete_architecture_1795097617543.jpg",
+          "type": "image",
+          "name": "Sənaye Kompleksi Qəlib İşləri"
+        }
+      ],
+      "lastSeenAt": "2026-11-19T14:19:28.196Z",
+      "lastLoginAt": "2026-11-19T13:19:28.196Z",
+      "createdAt": "2026-11-18T16:19:28.196Z",
+      "authProvider": "email"
+    },
+    {
+      "id": "u-elvin",
+      "email": "elvin@pompaxidmeti.az",
+      "passwordHash": "demo1234",
+      "firstName": "Elvin",
+      "lastName": "Həsənov",
+      "companyName": "Abşeron Pompa & Mikser",
+      "phone": "+994557891122",
+      "role": "Creator",
+      "verified": true,
+      "banned": false,
+      "bio": "38m, 47m və 52m beton pompaları və 9-12 m³ mikserlərlə Bakı və Abşeron üzrə 7/24 fasiləsiz beton çatdırılması.",
+      "avatarUrl": "/src/assets/images/concrete_pump_site_1795097617269.jpg",
+      "coverMediaUrl": "/src/assets/images/concrete_mixer_truck_1795097617899.jpg",
+      "coverMediaType": "image",
+      "socialLinks": [
+        {
+          "id": "s-4",
+          "platform": "Instagram",
+          "url": "https://instagram.com/abseronpompa"
+        },
+        {
+          "id": "s-5",
+          "platform": "TikTok",
+          "url": "https://tiktok.com/@abseronpompa"
+        },
+        {
+          "id": "s-6",
+          "platform": "Telegram",
+          "url": "https://t.me/abseronpompa"
+        }
+      ],
+      "portfolioGallery": [
+        {
+          "id": "pg-3",
+          "url": "/src/assets/images/concrete_pump_site_1795097617269.jpg",
+          "type": "image",
+          "name": "47m Pompa Bünövrə Tökümü"
+        },
+        {
+          "id": "pg-4",
+          "url": "/src/assets/images/concrete_mixer_truck_1795097617899.jpg",
+          "type": "image",
+          "name": "Mikser Parkı"
+        }
+      ],
+      "lastSeenAt": "2026-11-19T13:19:28.196Z",
+      "lastLoginAt": "2026-11-19T11:19:28.196Z",
+      "createdAt": "2026-11-18T16:19:28.196Z",
+      "authProvider": "email"
+    },
+    {
+      "id": "u-kamran",
+      "email": "kamran@slifovka.az",
+      "passwordHash": "demo1234",
+      "firstName": "Kamran",
+      "lastName": "Əliyev",
+      "companyName": "ProFloor Sənaye Döşəmələri",
+      "phone": "+994704569900",
+      "role": "Moderator",
+      "verified": true,
+      "banned": false,
+      "bio": "Anbar, qaraj, fabrik və ticarət mərkəzləri üçün lazer niveli ilə beton tökmə, kvarts sərtləşdirici və helikopter şlifovka işləri.",
+      "avatarUrl": "/src/assets/images/helicopter_floor_polishing_1795097620223.jpg",
+      "coverMediaUrl": "/src/assets/images/helicopter_floor_polishing_1795097620223.jpg",
+      "coverMediaType": "image",
+      "socialLinks": [
+        {
+          "id": "s-7",
+          "platform": "Veb-sayt",
+          "url": "https://profloor.az"
+        },
+        {
+          "id": "s-8",
+          "platform": "Instagram",
+          "url": "https://instagram.com/proflooraz"
+        }
+      ],
+      "portfolioGallery": [
+        {
+          "id": "pg-5",
+          "url": "/src/assets/images/helicopter_floor_polishing_1795097620223.jpg",
+          "type": "image",
+          "name": "Sumqayıt Logistika Anbarı"
+        }
+      ],
+      "lastSeenAt": "2026-11-19T11:19:28.196Z",
+      "lastLoginAt": "2026-11-18T16:19:28.196Z",
+      "createdAt": "2026-11-18T16:19:28.196Z",
+      "authProvider": "email"
+    },
+    {
+      "id": "u-orxan",
+      "email": "orxan@sifarisci.az",
+      "passwordHash": "demo1234",
+      "firstName": "Orxan",
+      "lastName": "Quliyev",
+      "companyName": "Qarabağ Tikinti Layihə",
+      "phone": "+994512348899",
+      "role": "User",
+      "verified": false,
+      "banned": false,
+      "bio": "Fərdi evlər və kommersiya obyektləri üçün peşəkar beton ustaları və texnika axtaran layihə rəhbəri.",
+      "avatarUrl": "/src/assets/images/hero_concrete_architecture_1795097617543.jpg",
+      "coverMediaUrl": "/src/assets/images/hero_concrete_architecture_1795097617543.jpg",
+      "coverMediaType": "image",
+      "socialLinks": [
+        {
+          "id": "s-9",
+          "platform": "WhatsApp",
+          "url": "https://wa.me/994512348899"
+        }
+      ],
+      "portfolioGallery": [],
+      "lastSeenAt": "2026-11-18T16:19:28.196Z",
+      "lastLoginAt": "2026-11-18T16:19:28.196Z",
+      "createdAt": "2026-11-18T16:19:28.196Z",
+      "authProvider": "email"
+    },
+    {
+      "id": "u-mwnnsqn1",
+      "email": "orxan.google@betonishleri.az",
+      "authProvider": "google",
+      "firstName": "Orxan",
+      "lastName": "Əliyev",
+      "companyName": "Orxan Briqadası",
+      "phone": "+994500000000",
+      "role": "User",
+      "verified": false,
+      "banned": false,
+      "bio": "GOOGLE hesabı ilə qoşulmuş platforma üzvü.",
+      "avatarUrl": "/src/assets/images/hero_concrete_architecture_1795097617543.jpg",
+      "coverMediaUrl": "/src/assets/images/hero_concrete_architecture_1795097617543.jpg",
+      "coverMediaType": "image",
+      "socialLinks": [],
+      "portfolioGallery": [],
+      "lastSeenAt": "2026-11-19T14:42:18.973Z",
+      "lastLoginAt": "2026-11-19T14:42:18.973Z",
+      "createdAt": "2026-11-19T14:42:18.973Z"
+    }
+  ],
+  "listings": [
+    {
+      "id": "l-101",
+      "userId": "u-elvin",
+      "title": "47m və 52m Beton Pompası + Sertifikatlı Beton Tökümü",
+      "description": "Bakı, Xırdalan və Abşeron yarımadasında istənilən hündürlüyə və məsafəyə beton pompalarının göndərilməsi. Laboratoriya sınaqlı M250, M300, M350 və M400 markalı hazır beton qarışıqları vaxtında və dəqiq kubmetrlə təhvil verilir.",
+      "category": "Beton pompası",
+      "firstName": "Elvin",
+      "lastName": "Həsənov",
+      "companyName": "Abşeron Pompa & Mikser",
+      "phone": "+994557891122",
+      "socialLinks": [
+        {
+          "id": "ls-1",
+          "platform": "Instagram",
+          "url": "https://instagram.com/abseronpompa"
+        },
+        {
+          "id": "ls-2",
+          "platform": "WhatsApp",
+          "url": "https://wa.me/994557891122"
+        }
+      ],
+      "tags": [
+        "pompa",
+        "baki",
+        "abseron",
+        "m300",
+        "m350",
+        "texnika"
+      ],
+      "media": [
+        {
+          "id": "m-1",
+          "url": "/src/assets/images/concrete_pump_site_1795097617269.jpg",
+          "type": "image",
+          "name": "47m Beton Pompası İşdə"
+        },
+        {
+          "id": "m-2",
+          "url": "/src/assets/images/concrete_mixer_truck_1795097617899.jpg",
+          "type": "image",
+          "name": "Mikser Təchizatı"
+        }
+      ],
+      "cardTheme": "vip",
+      "experienceYears": 11,
+      "regions": [
+        "Bakı",
+        "Xırdalan",
+        "Abşeron",
+        "Sumqayıt"
+      ],
+      "minVolumeM3": 15,
+      "priceType": "per_m3",
+      "pricePerM3": 118,
+      "concreteGrades": [
+        "M250",
+        "M300",
+        "M350",
+        "M400"
+      ],
+      "equipmentTypes": [
+        "Pompa",
+        "Mikser"
+      ],
+      "verified": true,
+      "status": "active",
+      "views": 428,
+      "likes": 47,
+      "likedBy": [],
+      "createdAt": "2026-11-19T11:19:28.196Z",
+      "updatedAt": "2026-11-19T13:19:28.196Z",
+      "tier": "vip",
+      "vipConfig": {
+        "sloganBanner": "24/7 Təcili Çıxış · Laboratoriya Sertifikatlı",
+        "keyAdvantages": [
+          "100% Dəqiq Kubmetr Zəmanəti",
+          "52m-ə qədər Almaniya Pompa Parkı",
+          "Rəsmi Müqavilə və Qaimə"
+        ],
+        "guaranteeText": "Hər mikserdən nümunə götürülür və rəsmi laboratoriya pasportu təqdim olunur.",
+        "frameVariant": "gold_olive",
+        "priorityPinOnMap": true
+      },
+      "paymentSim": {
+        "plan": "vip",
+        "amountAzn": 49,
+        "durationDays": 30,
+        "method": "card",
+        "transactionRef": "SIM-VIP-9041",
+        "paidAt": "2026-11-19T11:42:14.954Z",
+        "expiresAt": "2026-12-19T14:42:14.954Z"
+      }
+    },
+    {
+      "id": "l-102",
+      "userId": "u-rashad",
+      "title": "Monolit Karkas, Qəlib və Armatur Briqadası (Tam Təhvil)",
+      "description": "12 nəfərlik ixtisaslaşmış usta briqadası ilə villa, yaşayış binası və kommersiya obyektlərinin bünövrə, sütun, rigel və monolit örtük işləri. Özümüzün teleskopik dirək və Doka tipli qəlib sistemlərimiz mövcuddur.",
+      "category": "Monolit",
+      "firstName": "Rəşad",
+      "lastName": "Məmmədov",
+      "companyName": "Bakı Monolit Qrup",
+      "phone": "+994503124567",
+      "socialLinks": [
+        {
+          "id": "ls-3",
+          "platform": "Instagram",
+          "url": "https://instagram.com/bakimonolit"
+        },
+        {
+          "id": "ls-4",
+          "platform": "YouTube",
+          "url": "https://youtube.com/@bakimonolit"
+        }
+      ],
+      "tags": [
+        "monolit",
+        "qelib",
+        "armatur",
+        "baki",
+        "briqada",
+        "bunovre"
+      ],
+      "media": [
+        {
+          "id": "m-3",
+          "url": "/src/assets/images/monolith_formwork_rebar_1795097617939.jpg",
+          "type": "image",
+          "name": "Armatur və Qəlib Montajı"
+        },
+        {
+          "id": "m-4",
+          "url": "/src/assets/images/hero_concrete_architecture_1795097617543.jpg",
+          "type": "image",
+          "name": "Tamamlanmış Monolit Struktur"
+        }
+      ],
+      "cardTheme": "olive",
+      "experienceYears": 14,
+      "regions": [
+        "Bakı",
+        "Sumqayıt",
+        "Abşeron",
+        "Quba"
+      ],
+      "minVolumeM3": 25,
+      "priceType": "negotiable",
+      "concreteGrades": [
+        "M250",
+        "M300",
+        "M350",
+        "M400"
+      ],
+      "equipmentTypes": [
+        "Qəlib sistemi",
+        "Vibrator"
+      ],
+      "verified": true,
+      "status": "active",
+      "views": 365,
+      "likes": 39,
+      "likedBy": [],
+      "createdAt": "2026-11-18T16:19:28.196Z",
+      "updatedAt": "2026-11-19T11:19:28.196Z",
+      "tier": "pro",
+      "proConfig": {
+        "highlightLabel": "Doka Qəlib & Briqada",
+        "customCtaText": "Pulsuz Baxış Çağır",
+        "workingHours": "08:00 - 20:00 (Hər gün)",
+        "whatsappTemplate": "Salam Rəşad usta, obyektə yerində baxış və monolit smetası üçün əlaqə saxlayıram."
+      },
+      "paymentSim": {
+        "plan": "pro",
+        "amountAzn": 19,
+        "durationDays": 14,
+        "method": "card",
+        "transactionRef": "SIM-PRO-4412",
+        "paidAt": "2026-11-18T16:42:14.954Z",
+        "expiresAt": "2026-12-03T14:42:14.954Z"
+      }
+    },
+    {
+      "id": "l-103",
+      "userId": "u-kamran",
+      "title": "Sənaye Döşəmələri, Helikopter Şlifovka və Epoksid Hazırlığı",
+      "description": "Anbarlar, yeraltı qarajlar, zavod və logistika mərkəzləri üçün lazer səviyyəli beton döşəmə tökmə, kvarts (korund) toz səpmə və cüt pərli helikopterlə güzgü cilalanması.",
+      "category": "Şlifovka/Helikopter",
+      "firstName": "Kamran",
+      "lastName": "Əliyev",
+      "companyName": "ProFloor Sənaye Döşəmələri",
+      "phone": "+994704569900",
+      "socialLinks": [
+        {
+          "id": "ls-5",
+          "platform": "Veb-sayt",
+          "url": "https://profloor.az"
+        },
+        {
+          "id": "ls-6",
+          "platform": "Instagram",
+          "url": "https://instagram.com/proflooraz"
+        }
+      ],
+      "tags": [
+        "slifovka",
+        "helikopter",
+        "senayedoseme",
+        "sumqayit",
+        "baki",
+        "lazer"
+      ],
+      "media": [
+        {
+          "id": "m-5",
+          "url": "/src/assets/images/helicopter_floor_polishing_1795097620223.jpg",
+          "type": "image",
+          "name": "Helikopter Şlifovka Prosesi"
+        }
+      ],
+      "cardTheme": "concrete",
+      "experienceYears": 9,
+      "regions": [
+        "Bakı",
+        "Sumqayıt",
+        "Gəncə",
+        "Qarabağ"
+      ],
+      "minVolumeM3": 40,
+      "priceType": "per_m3",
+      "pricePerM3": 132,
+      "concreteGrades": [
+        "M300",
+        "M350",
+        "M400"
+      ],
+      "equipmentTypes": [
+        "Helikopter",
+        "Lazer nivelir"
+      ],
+      "verified": true,
+      "status": "active",
+      "views": 294,
+      "likes": 31,
+      "likedBy": [],
+      "createdAt": "2026-11-18T16:19:28.196Z",
+      "updatedAt": "2026-11-19T13:19:28.196Z",
+      "tier": "pro",
+      "proConfig": {
+        "highlightLabel": "Lazer Nivelir & Kvarts",
+        "customCtaText": "Kv.m Qiyməti Al",
+        "workingHours": "24/7 Növbəli Briqada",
+        "whatsappTemplate": "Salam Kamran bəy, sənaye döşəməsi şlifovkası üçün qiymət təklifi almaq istəyirəm."
+      },
+      "paymentSim": {
+        "plan": "pro",
+        "amountAzn": 19,
+        "durationDays": 14,
+        "method": "apple_pay",
+        "transactionRef": "SIM-PRO-3309",
+        "paidAt": "2026-11-18T16:42:14.954Z",
+        "expiresAt": "2026-12-03T14:42:14.954Z"
+      }
+    },
+    {
+      "id": "l-104",
+      "userId": "u-elvin",
+      "title": "9 m³ və 12 m³ Mikser Xidməti — Birbaşa Zavoddan Çatdırılma",
+      "description": "Kiçik və böyük həcmli bünövrə, həyət bağlama, pilləkən və kəmər betonları üçün M200-dən M400-ə qədər sertifikatlı hazır betonun mikserlə birbaşa obyektə çatdırılması.",
+      "category": "Mikser xidməti",
+      "firstName": "Elvin",
+      "lastName": "Həsənov",
+      "companyName": "Abşeron Pompa & Mikser",
+      "phone": "+994557891122",
+      "socialLinks": [
+        {
+          "id": "ls-7",
+          "platform": "Telegram",
+          "url": "https://t.me/abseronpompa"
+        },
+        {
+          "id": "ls-8",
+          "platform": "WhatsApp",
+          "url": "https://wa.me/994557891122"
+        }
+      ],
+      "tags": [
+        "mikser",
+        "beton",
+        "m200",
+        "m250",
+        "xirdalan",
+        "baki"
+      ],
+      "media": [
+        {
+          "id": "m-6",
+          "url": "/src/assets/images/concrete_mixer_truck_1795097617899.jpg",
+          "type": "image",
+          "name": "Mikser Boşaltma"
+        }
+      ],
+      "cardTheme": "standard",
+      "experienceYears": 11,
+      "regions": [
+        "Bakı",
+        "Xırdalan",
+        "Abşeron"
+      ],
+      "minVolumeM3": 6,
+      "priceType": "per_m3",
+      "pricePerM3": 104,
+      "concreteGrades": [
+        "M200",
+        "M250",
+        "M300",
+        "M350"
+      ],
+      "equipmentTypes": [
+        "Mikser"
+      ],
+      "verified": true,
+      "status": "active",
+      "views": 215,
+      "likes": 22,
+      "likedBy": [],
+      "createdAt": "2026-11-18T16:19:28.196Z",
+      "updatedAt": "2026-11-18T16:19:28.196Z",
+      "tier": "standard"
+    },
+    {
+      "id": "l-105",
+      "userId": "u-rashad",
+      "title": "Fərdi Ev Bünövrəsi, Lentvari Fundament və Qəlib İşləri",
+      "description": "Mərdəkan, Şüvəlan, Bilgəh və Novxanı bağ evləri üçün dəqiq layihə üzrə xəndək, armatur karkas, hidroizolyasiya və M300 bünövrə betonu tökülməsi.",
+      "category": "Bünövrə betonu",
+      "firstName": "Rəşad",
+      "lastName": "Məmmədov",
+      "companyName": "Bakı Monolit Qrup",
+      "phone": "+994503124567",
+      "socialLinks": [
+        {
+          "id": "ls-9",
+          "platform": "WhatsApp",
+          "url": "https://wa.me/994503124567"
+        }
+      ],
+      "tags": [
+        "bunovre",
+        "fundament",
+        "merdekan",
+        "monolit",
+        "keyfiyyet"
+      ],
+      "media": [
+        {
+          "id": "m-7",
+          "url": "/src/assets/images/hero_concrete_architecture_1795097617543.jpg",
+          "type": "image",
+          "name": "Bünövrə və Karkas İşi"
+        }
+      ],
+      "cardTheme": "standard",
+      "experienceYears": 14,
+      "regions": [
+        "Bakı",
+        "Abşeron"
+      ],
+      "minVolumeM3": 10,
+      "priceType": "negotiable",
+      "concreteGrades": [
+        "M250",
+        "M300"
+      ],
+      "equipmentTypes": [
+        "Qəlib sistemi"
+      ],
+      "verified": true,
+      "status": "active",
+      "views": 184,
+      "likes": 19,
+      "likedBy": [],
+      "createdAt": "2026-11-18T16:19:28.196Z",
+      "updatedAt": "2026-11-18T16:19:28.196Z",
+      "tier": "standard"
+    }
+  ],
+  "comments": [
+    {
+      "id": "c-1",
+      "listingId": "l-101",
+      "userId": "u-orxan",
+      "authorName": "Orxan Quliyev",
+      "authorRole": "User",
+      "text": "Mərdəkanda 38 kub M300 beton sifariş etdik, pompa da mikserlər də dəqiq vaxtında gəldi. Kubmetrdə heç bir əskiklik olmadı.",
+      "rating": 5,
+      "createdAt": "2026-11-19T13:19:28.196Z",
+      "adminReply": {
+        "text": "Təşəkkür edirik! Keyfiyyətli və vaxtında təhvil platformamızın əsas standartıdır.",
+        "repliedBy": "Admin",
+        "repliedAt": "2026-11-19T14:19:28.196Z"
+      }
+    },
+    {
+      "id": "c-2",
+      "listingId": "l-102",
+      "userId": "u-orxan",
+      "authorName": "Fərid Əhmədov",
+      "authorRole": "Qonaq",
+      "text": "Rəşad ustanın briqadası 2 mərtəbəli evin monolit pilləkən və örtüyünü çox səliqəli işlədi. Qəliblər təmiz açıldı.",
+      "rating": 5,
+      "createdAt": "2026-11-19T11:19:28.196Z"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev-1",
+      "targetUserId": "u-rashad",
+      "authorName": "Orxan Quliyev",
+      "rating": 5,
+      "text": "Layihə çertyojuna tam uyğun armatur toxunuşu və yüksək iş intizamı.",
+      "createdAt": "2026-11-19T13:19:28.196Z"
+    },
+    {
+      "id": "rev-2",
+      "targetUserId": "u-elvin",
+      "authorName": "Natiq Səfərov",
+      "rating": 5,
+      "text": "47 metrlik pompa dar küçədə belə rahat quruldu. Peşəkar operator.",
+      "createdAt": "2026-11-19T11:19:28.196Z"
+    }
+  ],
+  "quotes": [
+    {
+      "id": "q-101",
+      "customerName": "Samir Nəsirov",
+      "phone": "+994504112233",
+      "region": "Bakı",
+      "category": "Bünövrə betonu",
+      "concreteGrade": "M300",
+      "volumeM3": 42,
+      "needsPump": true,
+      "targetDate": "Bu həftə sonu",
+      "notes": "Mərdəkanda 2 mərtəbəli villa bünövrəsi üçün 42 m³ M300 beton və 38m pompa lazımdır.",
+      "status": "open",
+      "createdAt": "2026-11-19T12:42:14.954Z"
+    },
+    {
+      "id": "q-102",
+      "customerName": "Tural İsmayılov",
+      "phone": "+994558221040",
+      "region": "Sumqayıt",
+      "category": "Şlifovka/Helikopter",
+      "concreteGrade": "M350",
+      "volumeM3": 85,
+      "needsPump": true,
+      "targetDate": "Növbəti bazar ertəsi",
+      "notes": "600 m² qapalı anbar döşəməsi, lazer niveli + kvarts səpmə və helikopter cilalama.",
+      "status": "open",
+      "createdAt": "2026-11-19T08:42:14.954Z"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "log-1795099338973-7r25a",
+      "timestampMs": "2026-11-19 14:42:18.973",
+      "epochMs": 1795099338973,
+      "ip": "127.0.0.1",
+      "actorName": "Orxan Əliyev",
+      "actorRole": "User",
+      "action": "OAUTH_SIMULATOR_GIRIS",
+      "details": "GOOGLE ilə giriş (orxan.google@betonishleri.az)",
+      "severity": "info"
+    },
+    {
+      "id": "log-1795097974207-0q58h",
+      "timestampMs": "2026-11-19 14:19:34.207",
+      "epochMs": 1795097974207,
+      "ip": "127.0.0.1",
+      "actorName": "Baş Administrator",
+      "actorRole": "Admin",
+      "action": "ADMIN_GIRIS_UGURLU",
+      "details": "/admin_panel üzərindən təhlükəsiz giriş təsdiqləndi",
+      "severity": "info"
+    },
+    {
+      "id": "log-1795097974193-1rsdo",
+      "timestampMs": "2026-11-19 14:19:34.193",
+      "epochMs": 1795097974193,
+      "ip": "127.0.0.1",
+      "actorName": "Naməlum Giriş Cəhdi",
+      "actorRole": "Təhlükəsizlik",
+      "action": "ADMIN_SIFRE_SEHV",
+      "details": "Admin panelə səhv şifrə cəhdi (\"wrong\") — Giriş bloklandı",
+      "severity": "critical"
+    },
+    {
+      "id": "log-1",
+      "timestampMs": "2026-11-19 12:19:28.196",
+      "epochMs": 1795090768196,
+      "ip": "185.43.190.12",
+      "actorName": "Elvin Həsənov",
+      "actorRole": "Creator",
+      "action": "ELAN_YARADILDI",
+      "details": "Yeni elan dərc edildi: \"47m və 52m Beton Pompası + Sertifikatlı Beton Tökümü\" (l-101)",
+      "severity": "info"
+    },
+    {
+      "id": "log-2",
+      "timestampMs": "2026-11-19 13:19:28.196",
+      "epochMs": 1795094368196,
+      "ip": "91.214.88.45",
+      "actorName": "Orxan Quliyev",
+      "actorRole": "User",
+      "action": "REY_ELAVE_EDILDI",
+      "details": "l-101 elanına 5 ulduzlu rəy yazıldı",
+      "severity": "info"
+    }
+  ],
+  "settings": {
+    "maintenanceMode": false,
+    "registrationEnabled": true,
+    "requireApproval": false
+  },
+  "analytics": {
+    "hourlyVisits": [
+      {
+        "hour": "03:00",
+        "visits": 14
+      },
+      {
+        "hour": "04:00",
+        "visits": 18
+      },
+      {
+        "hour": "05:00",
+        "visits": 22
+      },
+      {
+        "hour": "06:00",
+        "visits": 19
+      },
+      {
+        "hour": "07:00",
+        "visits": 31
+      },
+      {
+        "hour": "08:00",
+        "visits": 45
+      },
+      {
+        "hour": "09:00",
+        "visits": 58
+      },
+      {
+        "hour": "10:00",
+        "visits": 63
+      },
+      {
+        "hour": "11:00",
+        "visits": 71
+      },
+      {
+        "hour": "12:00",
+        "visits": 68
+      },
+      {
+        "hour": "13:00",
+        "visits": 84
+      },
+      {
+        "hour": "14:00",
+        "visits": 93
+      }
+    ],
+    "tagSearches": {
+      "pompa": 142,
+      "monolit": 118,
+      "m300": 96,
+      "baki": 89,
+      "slifovka": 67,
+      "mikser": 64,
+      "bunovre": 53
+    },
+    "deviceCounts": {
+      "mobile": 318,
+      "desktop": 195
+    },
+    "regionCounts": {
+      "Bakı": 286,
+      "Abşeron": 94,
+      "Sumqayıt": 61,
+      "Xırdalan": 44,
+      "Gəncə": 18,
+      "Qarabağ": 15
+    }
+  }
+}
